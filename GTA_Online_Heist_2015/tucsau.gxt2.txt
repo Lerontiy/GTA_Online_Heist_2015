@@ -1,40 +1,40 @@
-﻿~z~Won't you, Paige?
+﻿~z~Чи не так, Пейдже?
 TUCS_ADAA
-~z~Blow me.
+~z~Підірви мене.
 TUCS_ADBA
-~z~Good luck.
-~z~for this er... for this job.
+~z~Щасти.
+~z~для цієї е-е... для цієї роботи.
 TUCS_ADAF
 TUCS_ADBK
 TUCS_ADAP
-~z~This is good to go.
-~z~go over it, study the plan, tick it off the list.
+~z~Пора звалювати.
+~z~перегляньте, вивчіть план, поставте галочку у списку.
 TUCS_ADAX
-~z~Isn't that right, Paige?
-~z~opportunities, er... new risks.
-~z~Orgies!
-~z~Then once you're clean, once you've got no heat on you,
+~z~Чи не так, Пейдже?
+~z~можливості, е-е... нові ризики.
+~z~Оргії!
+~z~Тоді, як тільки ви станете чистими, як тільки вас не нагріє,
 TUCS_ACAA
 TUCS_AAAA
 TUCS_ADAN
-~z~And that's when you'll remember that old Uncle Lester was here for you,
-~z~Now when you're ready to move on the car,
-~z~and leaving a nice long paper trail to their door instead.
-~z~Okay, okay, okay...
-~z~but only one person can be in charge. Respect, hmm?
+~z~І тоді ви згадаєте, що старий дядько Лестер був тут для вас,
+~z~Тепер, коли ви готові пересуватися на машині,
+~z~і залишити гарний довгий паперовий слід до їхніх дверей.
+~z~Так, так, так...
+~z~але керувати може лише одна особа. Повага, хм?
 TUCS_ADBB
-~z~mind blowing orgies in your future!
+~z~запаморочливі оргії у вашому майбутньому!
 11000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
 TUCS_ACAL
 490490
-~z~your first time...
+~z~ваш перший раз...
 TUCS_ADAC
 TUCS_ABAC
 TUCS_ACAW
-~z~you're gonna be jacking one from a nasty Korean crew
-~z~Good, good, good.
+~z~вам потрібно забрати один в огидної корейської банди
+~z~Добре, добре, добре.
 TUCS_ABAE
-~z~Okay, I'll look after this.
+~z~Добре, Я подбаю про авто.
 TUCS_ADAD
 100
 TUCS_ACAG
@@ -43,136 +43,136 @@ TUCS_ACAK
 TUCS_ADAT
 TUCS_ADAR
 TUCS_ADBI
-~z~You can't get anything done without respect.
+~z~Ви не можете нічого зробити без поваги.
 11000001100000
-~z~Okay, here's your board.
-~z~leaving a nice long paper trail to your front door,
-~z~Show it to me.
+~z~Гаразд, ось ваша дошка.
+~z~залишаючи красивий довгий паперовий слід до вхідних дверей,
+~z~Покажи мені це.
 TUCS_ADAV
-~z~The other goes into the bank, goes to the specific safety deposit box
-~z~Bank jobs... bank jobs...
+~z~Інший заходить у банк, йде до певної сейфової скриньки
+~z~Банкову роботу... банкову роботу...
 TUCS_ADAI
-~z~Guiding you through it.
+~z~Проводжу вас через це.
 TUCS_ABAF
-~z~I'd let you do it if you could reach,
+~z~Я б дозволила тобі це зробити, якби ти міг дотягнутися,
 TUCS_ADAH
 110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
-~z~select your crew, figure out how the take from a score should be split up.
-~z~One of you drives, keeps the heat off of you.
-~z~Oh yes, it is the holiday season at the Crest residence,
-~z~And when you've got the car, we'll come back here and talk bank jobs.
-~z~And then you'll feel a little creeped out, but,
+~z~виберіть свою команду, з’ясуйте, як розподілити результати.
+~z~Один із вас керує автомобілем, відводить тепло від вас.
+~z~О так, зараз якраз сезон відпусток у резиденції Crest,
+~z~І коли ви отримаєте машину, ми повернемося сюди і поговоримо про банкову роботу.
+~z~Тоді ви відчуєте, що вас трохи лякає, але,
 TUCS_ACAE
 TUCS_ACBF
-~z~I mean I didn't see any milk crates for you to stand on.
-~z~disappointing, you know?
-~z~you'll use it to er... set out all the prep work you need to do,
+~z~Я маю на увазі, що Я не бачила ящиків з молоком, на яких ти зміг би встояти.
+~z~розчарування, розумієте?
+~z~ви скористаєтеся ним, щоб е-е... описати всю підготовчу роботу, яку вам потрібно зробити,
 TUCS_ADBJ
-~z~Lester will come by your place when you're ready to go.
-~z~It's a high speed, armored car.
-~z~and daddy's out drinking.
-~z~You must be methodical. This isn't just a dumb crime.
+~z~Лестер подзвонить до вас, коли ви будете готові вирушати.
+~z~Це високошвидкісний броньований автомобіль.
+~z~і татусі напиваються.
+~z~Ви повинні бути методичними. Це не просто дурний злочин.
 TUCS_ACAP
 100
 TUCS_ADAK
 TUCS_ACAO
-~z~Well there... there is an element of that, huh?
+~z~Ну... є елемент цього, так?
 1100000110000011000001100000110000011000001100000110000011000001100000
 TUCS_ADAM
-~z~you know, we all gotta start somewhere.
-~z~Now, Paige will set up a board for you.
+~z~знаєте, ми всі маємо з чогось почати.
+~z~Зараз, Пейдж налаштує для вас дошку.
 TUCS_ABAA
-~z~It's a two man score, right?
+~z~Це мета двох гравців, чи не так?
 TUCS_ACBD
 TUCS_ABAI
 TUCS_ACAH
-~z~to make eye contact afterwards, but er...
+~z~щоб встановити зоровий контакт потім, але е-е...
 TUCS_ADBM
-~z~Alright, it's... funny.
+~z~Добре, це... смішно.
 TUCS_ACBC
 100
-~z~You're only gonna need er... one thing,
+~z~Вам знадобиться лише е-е... одна річ,
 TUCS_ACAN
-~z~but new worlds will... will open up.
+~z~але нові світи... відкриються.
 TUCS_ABAH
-~z~Now where was I? Oh, yes, yes, er...
+~z~На чому Я зупинився? О, так, авжеж, е-е...
 TUCS_ACBA
-~z~Hmm, okay. First time, Fleeca! Woo!
-~z~you passed.
+~z~Хм, гаразд. Вперше, Фліка! Ю-ху!
+~z~вам вдалося.
 TUCS_ABAJ
-~z~and in the meantime if anyone comes to me
+~z~а тим часом, якщо хтось прийде до мене
 TUCS_ACAX
-~z~wild...
-~z~and we'll never talk about it, okay? Okay?
+~z~дикі...
+~z~і ми ніколи не будемо про це говорити, гаразд? Гаразд?
 TUCS_ACAD
-~z~it'll be vaguely awkward and er...
-~z~I'll mention you as a reliable pair of hands.
+~z~буде дещо незручно і е-е...
+~z~Я згадаю вас як надійні пари рук.
 TUCS_ADAS
 TUCS_ADAO
 TUCS_ADBL
 TUCS_ACAC
 100
-~z~and you get the hell out of that place.
-~z~the room. Now Paige is setting up this board on which you will plan your scores,
-~z~I gotta say...
+~z~і ви їдете геть до біса з того місця.
+~z~кімната. Зараз Пейдж встановлює цю дошку, на якій ви плануватимете свої результати,
+~z~Я маю сказати...
 TUCS_ADBG
 TUCS_ACAM
 TUCS_ACAQ
 TUCS_ADAB
-~z~but you're gonna repress it. Squash it down,
+~z~але ви придушите страх. Розчавите його,
 TUCS_ACAR
-~z~It'll be er...
+~z~Це буде...
 TUCS_ACBE
 TUCS_ADBH
-~z~fireworks, you know?
+~z~феєрверк, розумієте?
 TUCS_ADAE
-~z~The most important thing to look for in an employee is respect.
-~z~and then you get out of there. You get in that fast armored car
+~z~Найважливіше, чого потрібно шукати в співробітниках, — це повага.
+~z~і тоді ви виходите звідти. Ви сідаєте в той швидкий броньований автомобіль
 TUCS_ADAJ
 490490490590590490490490490490490490490490590490490490490490490490490590490490490490490490490490
 TUCS_ACAS
-~z~holding your hand, you know?
+~z~тримаючи вас за руки, розумієте?
 TUCS_ACAV
 TUCS_ACAB
 TUCS_ADAY
-~z~And if that thing I talked about comes up I'll call you
-~z~well it's never easy, there won't exactly be er...
+~z~І якщо те, про що Я говорив, виникне, Я вам подзвоню
+~z~ну це ніколи не буває легко, точно не буває...
 TUCS_ACAU
-~z~So you need a crew to take a score,
-~z~Okay.
+~z~Тож вам потрібна команда, щоб оцінити,
+~z~Гаразд.
 TUCS_ADBF
 TUCS_ABAG
-~z~But er...
-~z~Hey!
+~z~Але...
+~z~Гей!
 TUCS_ADAG
 TUCS_ACAT
-~z~Now instead of getting one legitimately,
+~z~Тепер замість законного отримання,
 TUCS_ACAY
 TUCS_ADAQ
 TUCS_ABAD
 TUCS_ABAB
-~z~You know the er... the first times,
+~z~знаєте, е-е... перші рази,
 490490490490490490490490490490
 TUCS_AAAB
-~z~You'll probably stick the wrong thing in the wrong part
+~z~Ви, ймовірно, вставите не ту річ у не ту частину
 TUCS_ADAU
 TUCS_ACAJ
 TUCS_ADBD
 490400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400400
-~z~don't expect too much. There are erm...
-~z~and then you'll finish too early and... and you won't be able to...
+~z~не очікуйте занадто багато. Ви матимете е-е...
+~z~і тоді ви закінчите занадто рано і... і ви не будете спроможні на те...
 TUCS_ACAZ
 TUCS_ADAL
-~z~your er...
+~z~ваш е-е...
 TUCS_ADBC
-~z~For a first time that wasn't bad, but don't get clingy.
-~z~You know what, like I said, it is your first time, so er...
+~z~На перший раз це було непогано, але не чіпляйтеся.
+~z~Знаєте, як Я вже сказав, це ваш перший раз, отже...
 TUCS_ADBE
-~z~insane...
+~z~божевільні...
 TUCS_ACAI
 TUCS_ADAW
-~z~Ah...
-~z~Something will have changed, you know? New er...
-~z~come see me, give me the box and you get paid, hmm?
+~z~О-о...
+~z~Щось зміниться, розумієте? Нові е-е...
+~z~приходьте до мене, дайте мені коробку, і вам заплатять, хм?
 TUCS_ADAZ
 TUCS_ACAF

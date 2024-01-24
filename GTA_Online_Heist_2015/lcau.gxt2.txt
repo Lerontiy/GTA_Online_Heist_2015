@@ -21,7 +21,7 @@ LC_AKAA
 392010392010392010392
 1100001110000011000011100000110000111000001100001
 392010392010392010392392
-~z~I'll be back in touch if there's more work down the road.
+~z~Я знову зв’яжуся, якщо в майбутньому буде більше роботи.
 LC_APAB
 ~z~I need a little time. Anyway, I got a request... through the ether, so to speak.
 ~z~Well, if I'd known what it was going to be, I would have told you I didn't want to touch anyone who'd touched it with a ten foot barge pole.
@@ -44,7 +44,7 @@ LC_AKAB
 100
 ~z~Hey, seeing as you're not exactly one for long talks about the nature of human misery,
 100
-~z~Uh, you'll sleep well tonight. We all will. Enjoy the spoils while you can.
+~z~Ви спатимете добре сьогодні ввечері. Ми всі будемо. Насолоджуйтесь здобиччю, поки можете.
 100
 LC_AQAA
 LC_AEAA
@@ -63,7 +63,7 @@ LC_ANAB
 LC_ACAA
 LC_ARAA
 100
-~z~There's your FSA fine, Fleeca fucks!
+~z~А твій FSA добряче трахає Fleeca!
 SFX_PAUSE_220
 ~z~Personally, I wouldn't touch it with a ten foot barge pole, because I don't know any of these people,
 100

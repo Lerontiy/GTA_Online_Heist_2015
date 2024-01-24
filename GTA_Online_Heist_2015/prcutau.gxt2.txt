@@ -45,7 +45,7 @@ PRCUT_ADAQ
 PRCUT_AJBC
 ~z~And I want it understood that I am not involved.
 ~z~Just give me gun.
-~z~Hey!
+~z~Гей!
 PRCUT_AKAJ
 ~z~then who can you kill, right?
 PRCUT_AGAA
